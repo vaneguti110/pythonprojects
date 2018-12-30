@@ -1,4 +1,4 @@
-#Project to slice a user email using python version 3.7.2
+#Project to slice a user email from the email, ask what is your email and it will display user and the domain separate using python version 3.7.2
 
 #Get user email address
 email= input("what is your email?: ").strip()
