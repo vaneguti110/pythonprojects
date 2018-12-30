@@ -1,4 +1,6 @@
 #Project called cinema simulator, check the list of films, check if user is allow to see a film and enough seats available to watch the film, using Python version 3.7.2
+#Example in the idle:
+#It needs to write one of this film when asking you for a film to run: "Finding Dory","Bourne","Tarzan","Ghost Busters"
 
 #data of films dictionary
 films = {
