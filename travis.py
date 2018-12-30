@@ -1,4 +1,5 @@
-#Project using a list of users and remove a user from the list using python version 3.7.2
+#Project using a list of users, ask for a user in the list ="Alice","Bob","Claire","Dan", "Emma", "Fred","Georgie", "Harry" and remove a user from the list using python version 3.7.2
+
 
 #list of known users
 known_users = ["Alice","Bob","Claire","Dan", "Emma", "Fred","Georgie", "Harry"]
