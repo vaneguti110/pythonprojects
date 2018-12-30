@@ -1,4 +1,4 @@
-#Project about banking issues, used the deposit, withdraw, statement using python 3.7.2
+#Project about setting up banking issues, adding a deposit/savings to a user, withdraw and statement using python 3.7.2
 #Z = Current("Vanessa", 300) press enter
 #Z.deposit(300)
 #Z.statement()
