@@ -1,4 +1,4 @@
-#Project tic tac toe 3x3boardgame, using python 3.7.2
+#Project tic tac toe 3x3boardgame, ask user from 1 to 9 and locate the icon, switch between player 1: X and player 2: O, shows when its a win and draw, using python 3.7.2
 
 board = ["  " for i in range(9)]
 
