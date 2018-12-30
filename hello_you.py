@@ -1,4 +1,4 @@
-#Project that ask information about the user, stores in variable and print it to the screen the message using python version 3.7.2
+#Project ask information about the user, name, age, city, what do you love doing and stores it in variable and print the message to the screen using python version 3.7.2
 
 #Ask user for name
 name = input("What is your name?: ")
