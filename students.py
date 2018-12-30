@@ -1,4 +1,4 @@
-#Project for creating a database of students using Python 3.7.2
+#Project creates a database of students, print the id of Claire, age of Dan, id and grades of Emma, using Python 3.7.2
 
 
 #list of students
@@ -10,7 +10,7 @@ students = {
         "Emma":{"id": "ID0005" ,"age" = 22, "grade" = "E"} 
         }
 
-#print the ID of Claire
+#print the id of Claire
 print(students["Claire"]["id"])
 
 #print the age of Dan
