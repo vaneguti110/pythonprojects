@@ -1,4 +1,5 @@
-#Project making baby conversation, using 3.7.2
+#Project making baby conversation, using python idle version 3.7.2
+#Ask random questions about baby questions, it will stop asking when you said just just because
 
 from random import choice
 
