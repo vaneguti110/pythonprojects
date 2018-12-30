@@ -1,5 +1,10 @@
 #Project about global variables, local variables and scope, using python 3.7.2
 
+##In the idle example:
+#It will display: f1=260 --> it will show be 250 + 10 since in the function is calling global variable a 
+#f2=50
+#a=250
+
 a = 250
 
 #another way with array
