@@ -1,4 +1,4 @@
-#Project to create a dictionary of students and show the students who has a letter "a" in it, using python 3.7.2
+#Project uses a dictionary of students and show the students who has a letter "a" in it, using python 3.7.2
 
 students = {
     "male":["Tom", "Charlie", "Harry", "Frank"],
