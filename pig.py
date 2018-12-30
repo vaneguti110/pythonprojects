@@ -1,4 +1,4 @@
-#Project called pig latin translator uses a word, takes the first consonant and put it to the end of the vowels an change the word completely, using python 3.7.2
+#Project called pig latin translator ask you for a word, takes the first consonant and put it to the end of the vowels an change the word completely, using python 3.7.2
 
 #get sentence from user
 original = input("Please enter a sentence:").strip().lower()
